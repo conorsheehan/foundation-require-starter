@@ -1,0 +1,10 @@
+{
+  "name": "foundation_require_starter",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "font-awesome": "~4.0.3",
+    "requirejs": "~2.1.11",
+    "underscore": "~1.6.0",
+    "handlebars": "~1.3.0"
+  }
+}
